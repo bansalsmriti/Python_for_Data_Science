@@ -1,0 +1,3 @@
+This file is for writing to a file.
+Python is awesome
+This is for appending to the file

@@ -1,0 +1,2 @@
+Hi! My name is Smriti.
+I am practising Python
